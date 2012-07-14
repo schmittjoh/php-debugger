@@ -1,0 +1,11 @@
+{
+    "minimum-stability": "stable",
+    
+    "require": {
+        "ext-AOP": "*"
+    },
+    
+    "require-dev": {
+        "symfony/filesystem": "2.1.*@dev"
+    }
+}
